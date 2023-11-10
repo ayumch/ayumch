@@ -8,6 +8,14 @@ I'm a student<br>I learn programming language<br>email : ayuummi1009@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayuu09&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuu09&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ayumch&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -15,4 +23,11 @@ I'm a student<br>I learn programming language<br>email : ayuummi1009@gmail.com
 
 
 [![](https://visitcount.itsvg.in/api?id=ayuu09&icon=7&color=10)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
 
