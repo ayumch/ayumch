@@ -12,7 +12,6 @@ I'm a student<br>I learn programming language<br>email : ayuummi1009@gmail.com
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayumch&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -22,7 +21,7 @@ I'm a student<br>I learn programming language<br>email : ayuummi1009@gmail.com
 
 
 
-[![](https://visitcount.itsvg.in/api?id=ayuu09&icon=7&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ayumch&label=Profile%20Views&color=11&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 
 
